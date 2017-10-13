@@ -41,3 +41,8 @@ Repo for CodeJam Demo
 * up-for-grabs
 * jump-in
 * easy
+
+```git
+git --version
+git config --global user.email
+git config --global user.name
