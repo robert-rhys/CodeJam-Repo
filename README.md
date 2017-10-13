@@ -7,3 +7,8 @@ Repo for CodeJam Demo
 4) Push
 5) Pull Request
 6) Pull and Repeat
+
+```git
+git --version
+git config --global user.email
+git config --global user.name
